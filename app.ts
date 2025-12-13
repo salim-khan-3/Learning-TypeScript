@@ -24,3 +24,16 @@
 
 // primitive direct copy kora jai ,,,
 // reference copy kora jai na
+
+// let a = 12;
+// a= "md salim islmsdkjf";
+
+// tuples 
+// let arr: [string, number] = ["md salim islam",22]
+
+
+enum UserRoles {
+    ADMIN = "admin",
+    GUEST = "guest",
+    SUPER_ADMIN = "super_admin"
+}
